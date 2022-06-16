@@ -8,7 +8,7 @@ Strong at Solidity, Python, Rust for backend and React, Web3.js, TypeScript for 
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the blockchain development stack.
 
-- 🌱 I’m currently learning blockchain technologies
+- 🌱 I’m currently researching blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
 - 📫 gmail: hallendev0531@gmail.com
