@@ -11,7 +11,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🌱 I’m currently learning terra blockchain
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
-- 📫 gmail: hallendev0531@gmail.com
 
 ### Languages and Tools:
 
