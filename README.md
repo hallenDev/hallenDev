@@ -12,6 +12,12 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
 
+### Find me everywhere
+- skype: live:.cid.7c40a916d28101b1
+- telegram: @hallenDev0531
+- mail: hallendev0531@gmail.com
+
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
