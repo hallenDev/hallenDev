@@ -4,7 +4,7 @@ Hello. I'm a Full-Stack/Blockchain developer with 5+ years experience.
 
 Highly-skilled Blockchain professional with hands-on experience building NFT market places and decentralized applications. Worked with so many DeFi projects. 
 I have worked in Ethereum, Binance Smart Chain, Solana, Alogrand chains. 
-Strong at Solidity, Python, Rust for backend and React, Web3.js, TypeScript for the frontend development. Especially very good at C#/C++ and have a rich experience of that. 
+Strong at Solidity, Python, Rust for backend and React, Web3.js, Next.js, TypeScript for the frontend development. Especially very good at C#/C++ and have a rich experience of that. 
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the blockchain development stack.
 
