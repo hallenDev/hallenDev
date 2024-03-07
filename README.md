@@ -1,12 +1,8 @@
 ### Dear Everyone 👋
 
-Hello. I'm a Full-Stack/Blockchain developer with 5+ years experience.
-
-Highly-skilled Blockchain professional with hands-on experience building NFT market places and decentralized applications. Worked with so many DeFi projects. 
-I have worked in Ethereum, Binance Smart Chain, Solana, Alogrand chains. 
-Strong at Solidity, Python, Rust for backend and React, Web3.js, Next.js, TypeScript for the frontend development. Especially very good at C#/C++ and have a rich experience of that. 
-
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the blockchain development stack.
+Full Stack Developer with 6 years of expertise in developing and maintaining web applications, back-end services, blockchain project.
+Track record in improving user engagement, and system performance while reducing operational costs, and bugs.
+Skilled in Rust, Golang, Blockchain,NodeJS, microservices architecture, automated testing, CI/CD, and software libraries and frameworks.
 
 - 🌱 I’m currently learning terra blockchain
 - 🤔 I’m looking to help with buliding defi and web apps
